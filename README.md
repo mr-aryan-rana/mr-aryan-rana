@@ -2,8 +2,8 @@
 
 <h1 align="center"> I'm Aryan Rana</h1>
 
-<h3 align="center">💻 Computer Science Enthusiast from India | Passionate about Coding, Innovation & Open-Source</h3>
-<h3 align="center">🎓 Pursuing BCA at Maharishi Markandeshwar (Deemed to be University), Mullana, Ambala, Haryana</h3>
+<h3 align="left">💻 Computer Science Enthusiast from India | Passionate about Coding, Innovation & Open-Source</h3>
+<h3 align="left">🎓 Pursuing BCA at Maharishi Markandeshwar (Deemed to be University), Mullana, Ambala, Haryana</h3>
 
 <p align="left"> <a href="https://x.com/Mr_Aryan_Rana?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
