@@ -5,12 +5,12 @@
 <h3 align="left">💻 Computer Science Enthusiast from India | Passionate about Coding, Innovation & Open-Source</h3>
 <h3 align="left">🎓 Pursuing BCA at Maharishi Markandeshwar (Deemed to be University), Mullana, Ambala, Haryana</h3>
 
-<p align="left"> <a href="https://x.com/Mr_Aryan_Rana?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left">  </p>
 
 - 👦 Pronouns: He/Him
 
 - 🔭 I’m currently working on **Machine Learning Models**
-- 🌱 I’m currently learning **Deep Learning & Neural Networks**
+- 📖 I’m currently learning **Deep Learning & Neural Networks**
 - 🌱 Fields of Interest **Machine Learning & Data Science**
 
 - 📫 How to reach me **[mmu.aryan@gmail.com](mailto:mmu.aryan@gmail.com)**
@@ -25,7 +25,12 @@
 <a href="https://www.instagram.com/mr._.aryan.rana/?hl=en">
   <img align="left" alt="Aryan's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-
+<a href="https://wa.me/919905251524 target="_blank">
+<img align="left" alt="Aryan's WhatsApp" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
+</a>
+<a href="https://x.com/Mr_Aryan_Rana?s=09" target="_blank">
+  <img align="left" alt="Twitter X" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,5 +41,4 @@
 <!--<p>-->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-aryan-rana&layout=compact&langs_count=8" alt="Aryan Rana" />
 </p>
-<br>
 <br clear="left"/>
