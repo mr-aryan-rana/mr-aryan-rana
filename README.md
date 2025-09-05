@@ -29,7 +29,7 @@
 <img align="left" alt="Aryan's WhatsApp" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
 </a>
 <a href="https://x.com/Mr_Aryan_Rana?s=09" target="_blank">
-  <img align="left" alt="Twittleftidth="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png"/>
+  <img align="left" alt="Twitter"  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png"/>
 </a>
 </p>
 
