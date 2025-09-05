@@ -25,11 +25,11 @@
 <a href="https://www.instagram.com/mr._.aryan.rana/?hl=en">
   <img align="left" alt="Aryan's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://wa.me/919905251524 target="_blank">
+<a href="https://wa.me/919905251524" s="_blank">
 <img align="left" alt="Aryan's WhatsApp" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
 </a>
 <a href="https://x.com/Mr_Aryan_Rana?s=09" target="_blank">
-  <img align="left" alt="Twitter X" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png"/>
+  <img align="left" alt="Twittleftidth="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png"/>
 </a>
 </p>
 
